@@ -6,8 +6,7 @@ YouTube Video Blocker is a Chrome extension that puts you in control of your You
 
 - **Tag-Based Blocking:** 🏷️ Block videos with user-defined tags.
 - **Title-Based Blocking:** 📚 Block videos with specific titles.
-- **User-Friendly Interface:** 🌐 Easy-to-use interface in the Chrome toolbar.
-- **Real-Time Blocking:** 🕒 Block videos in real-time without page reload.
+- **User-Friendly Interface:** 🌐 Easy-to-use interface in the Chrome toolbar. 
 - **Preference Management:** 📊 Save and manage blocking preferences effortlessly.
 
 ## 🚀 How to Use
