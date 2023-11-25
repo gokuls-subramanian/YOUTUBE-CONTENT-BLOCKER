@@ -17,7 +17,10 @@ YouTube Video Blocker is a Chrome extension that puts you in control of your You
 4. Use the "Clear" button to unblock all videos.
 5. Additional tags can be added with the "Add More" button.
 
-**Note:** The extension works in real-time; changes take effect immediately. No need to reload the YouTube page.
+**Note:** The extension Dont works in real-time,need to reload to  changes take effect immediately
+
+## Video
+https://github.com/gokuls-subramanian/YOUTUBE-CONTENT-BLOCKER/assets/96585296/c72d7fe5-a2de-4430-930c-17b837d1a638
 
 ## 🤝 Contributing
 
@@ -26,4 +29,5 @@ Contributions are welcome! Open issues, submit pull requests, or provide suggest
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
+
 
